@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(5, 48, 97);
+    
+}
+.heading{
+    color: cornsilk;
+}
+p{
+    color: rgba(255, 255, 255, 0.767);
+}
+h2{
+    color: rgb(9, 168, 9);
+}
+.heading_role{
+    color:whitesmoke;
+}
+.contact{
+    color: rgb(153, 21, 38);
+    word-spacing: 20px;
+   
+}
+span{
+    text-decoration: underline;
+}
+
